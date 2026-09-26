@@ -22,13 +22,14 @@ The project features pure Java-coded GUI components, real-time 2D physics/game l
 
 ## 📁 Repository Structure
 
+```text
 ├── Main.java         # Main application entry point, game loop, scene management & controls
 ├── Drawing.java      # Canvas/Stage rendering, wall layout, and graphical asset handling
 ├── EnemyTank.java    # AI-controlled enemy tank logic, movement, and shooting intervals
 ├── Bullet.java       # Shell kinematics, boundary checks, and collision detection
 ├── Explosion.java    # Animation frames and lifecycle for impact/destruction effects
 └── Checklist.pdf     # Compliance checklist for assignment deliverables
-
+```
 ---
 
 ## 🎮 Controls
