@@ -29,3 +29,23 @@ The project features pure Java-coded GUI components, real-time 2D physics/game l
 ├── Bullet.java       # Shell kinematics, boundary checks, and collision detection
 ├── Explosion.java    # Animation frames and lifecycle for impact/destruction effects
 └── Checklist.pdf     # Compliance checklist for assignment deliverables
+
+---
+
+## 🎮 Controls
+
+| Key | Action |
+|---|---|
+| **Arrow Keys (↑ ↓ ← →)** | Move tank (Up, Down, Left, Right) |
+| **X** | Fire bullet |
+| **P** | Pause / Resume game |
+| **R** | Restart game (Pause / Game Over screens) |
+| **Escape** | Exit game |
+
+---
+
+## 🛠️ Tech Stack & Requirements
+
+- **Language:** Java 8 (Oracle JDK)
+- **GUI Framework:** JavaFX (Native Java code only; no FXML, CSS, or SceneBuilder)
+- **Paradigm:** Object-Oriented Programming (OOP), Event-Driven Architecture, Game Loop / AnimationTimer
